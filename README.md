@@ -3,6 +3,7 @@
 Create a Phonebook web-application
 --------------------------------------------------------
 The application must consist of three parts: front-end (web-view), back-end (api and database logic) and database (mysql).
+I have used Microsoft SQL Server for its database.
 
 The back-end must have following API:
 1. HTTP:80/user/add - Adding a new user with phone number
